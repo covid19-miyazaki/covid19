@@ -24,9 +24,7 @@
       <ul>
         <li>{{ $t('Microsoft Edge 最新版') }}</li>
         <li>{{ $t('Mozilla Firefox 最新版') }}</li>
-        <li>
-          {{ $t('Google Chrome 最新版（Windows 10以上, Android 8.0以上）') }}
-        </li>
+        <li>{{ $t('Google Chrome 最新版（Windows 10以上, Android 8.0以上）') }}</li>
         <li>{{ $t('Safari 最新版（macOS, iOS）') }}</li>
         <li>{{ $t('Opera Software ASA Opera 最新版') }}</li>
       </ul>
