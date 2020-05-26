@@ -12,6 +12,17 @@
         <t-i18n>{{ $t('注釈') }}</t-i18n>
       </div>
     </div>
+    <static-info
+      class="mb-4"
+      :url="
+        'https://www.pref.miyazaki.lg.jp/kansensho-taisaku/kenko/hoken/kinkyujitaisengen_covid19.html'
+      "
+      :text="
+        $t(
+          '「緊急事態宣言」が全国一律で5月末まで延長され、また国の基本的対処方針が改定されました'
+        )
+      "
+    />
     <whats-new class="mb-4" :items="newsItems" />
     <static-info
       class="mb-4"

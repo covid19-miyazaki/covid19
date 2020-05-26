@@ -30,7 +30,6 @@
       </v-icon>
 
       <nav class="SideNavigation-Menu">
-        <MenuList :items="items" @click="$emit('closeNavi', $event)" />
         <div
           v-if="this.$i18n.locales.length > 1"
           class="SideNavigation-Language"
@@ -42,6 +41,7 @@
           </label>
           <LanguageSelector />
         </div>
+        <MenuList :items="items" @click="$emit('closeNavi', $event)" />
       </nav>
 
       <footer class="SideNavigation-Footer">
@@ -128,6 +128,12 @@ export default Vue.extend({
   computed: {
     items(): Item[] {
       return [
+        {
+          icon: 'mdi-human-child',
+          title: this.$t('子供の皆様へ'),
+          link: this.switchLocalePath('ja-basic'),
+          divider: true
+        },
         {
           icon: 'mdi-chart-timeline-variant',
           title: this.$t('県内の最新感染動向'),
@@ -381,7 +387,7 @@ export default Vue.extend({
 }
 
 .SideNavigation-Language {
-  padding-top: 20px;
+  padding-bottom: 5px;
 }
 
 .SideNavigation-LanguageLabel {
