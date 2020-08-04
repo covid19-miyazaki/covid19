@@ -2,7 +2,7 @@
     "newsItems": [
         {
             "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/hassei_list.html",
-            "text": "新型コロナウイルス感染症患者（188～195例目)の発生について（令和2年8月3日）"
+            "text": "新型コロナウイルス感染症患者（196～207例目)の発生について（令和2年8月4日）"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/fukushihoken/covid-19/jigyosha/20200730202201.html",
@@ -19,10 +19,6 @@
         {
             "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/yobo/hassei.html",
             "text": "県内の感染状況（警戒レベル）及び注意すべき県外の地域"
-        },
-        {
-            "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/yobo/20200726104446.html",
-            "text": "高鍋町内の接待を伴う飲食店の従業員やご利用された方の相談先"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/ky-somu/covid-19/torikumi/20200802130114.html",
