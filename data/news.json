@@ -2,11 +2,15 @@
     "newsItems": [
         {
             "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/hassei_list.html",
-            "text": "新型コロナウイルス感染症患者（236～248例目)の発生について（令和2年8月8日）"
+            "text": "新型コロナウイルス感染症患者（249～254例目)の発生について（令和2年8月9日）"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/fukushihoken/covid-19/jigyosha/20200730202201.html",
             "text": "「休業要請等」を県下全域に拡大します（8月1日～）"
+        },
+        {
+            "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/utagai/20200808180643.html",
+            "text": "濃厚接触者・その他の接触者としてPCR検査を受けて陰性だった方へ"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/fukushihoken/covid-19/chiji/message/20200803.html",
@@ -19,10 +23,6 @@
         {
             "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/yobo/hassei.html",
             "text": "県内の感染状況（警戒レベル）及び注意すべき県外の地域"
-        },
-        {
-            "url": "https://www.pref.miyazaki.lg.jp/ky-somu/covid-19/torikumi/20200802130114.html",
-            "text": "延岡市・西臼杵群圏域の県立学校における新型コロナウイルス感染症対策の対応について（令和2年8月2日時点）"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/choju/covid-19/jigyosha/20200713095950.html",
