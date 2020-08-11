@@ -2,15 +2,15 @@
     "newsItems": [
         {
             "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/hassei_list.html",
-            "text": "新型コロナウイルス感染症患者（255～262例目)の発生について（令和2年8月10日）"
+            "text": "新型コロナウイルス感染症患者（263～264例目)の発生について（令和2年8月11日）"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/fukushihoken/covid-19/chiji/message/20200809210125.html",
             "text": "夏休み・お盆の帰省をお考えの皆様へ【知事メッセージ】（令和2年8月10日）"
         },
         {
-            "url": "https://www.pref.miyazaki.lg.jp/fukushihoken/covid-19/chiji/message/20200803.html",
-            "text": "新型コロナウイルス感染症に対する知事メッセージ（令和2年8月3日）"
+            "url": "https://www.pref.miyazaki.lg.jp/kohosenryaku/covid-19/chiji/20200811.html",
+            "text": "【知事記者会見】お盆・夏休みにおける注意喚起（令和2年8月11日）"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/utagai/20200808180643.html",
@@ -19,6 +19,14 @@
         {
             "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/yobo/hassei.html",
             "text": "県内の感染状況（警戒レベル）及び注意すべき県外の地域"
+        },
+        {
+            "url": "https://www.pref.miyazaki.lg.jp/fukushihoken/covid-19/jigyosha/20200730202201.html",
+            "text": "「休業要請等」を県下全域に拡大します（8月1日～）"
+        },
+        {
+            "url": "https://www.pref.miyazaki.lg.jp/iryoyakumu/covid-19/torikumi/20200803142318.html",
+            "text": "新型コロナウイルス感染症の軽症患者等に係る宿泊療養について"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/fukushihoken/covid-19/jigyosha/20200730202201.html",
