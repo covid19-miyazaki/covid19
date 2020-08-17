@@ -2,7 +2,7 @@
     "newsItems": [
         {
             "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/hassei_list.html",
-            "text": "新型コロナウイルス感染症患者（283～288例目)の発生について（令和2年8月15日）"
+            "text": "新型コロナウイルス感染症患者（289～294例目)の発生について（令和2年8月17日）"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/fukushihoken/covid-19/chiji/message/20200809210125.html",
@@ -13,12 +13,16 @@
             "text": "【知事会見要旨】休業要請等の終了・新型コロナウイルスの注意喚起について（令和2年8月16日）"
         },
         {
-            "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/utagai/20200808180643.html",
-            "text": "濃厚接触者・その他の接触者としてPCR検査を受けて陰性だった方へ"
+            "url": "https://www.pref.miyazaki.lg.jp/fukushihoken/covid-19/jigyosha/20200814111946.html",
+            "text": "県・市町村と飲食業関係団体とのガイドライン遵守に関する共同宣言署名式を開催しました（令和2年8月17日）"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/covid-19/utagai/soudan_jusin.html",
             "text": "新型コロナウイルスに関する相談窓口"
+        },
+        {
+            "url": "https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/utagai/20200808180643.html",
+            "text": "濃厚接触者・その他の接触者としてPCR検査を受けて陰性だった方へ"
         },
         {
             "url": "https://www.pref.miyazaki.lg.jp/covid-19/utagai/soudan_jusin.html",
